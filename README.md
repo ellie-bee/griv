@@ -7,7 +7,7 @@ Graph reduction is a method of evaluating expressions.  Here I implement a graph
 
 Clone this repo recursively to pull both GRIV and GRIVc
 ```shell
-git clone https://github.com/ellie-bee/griv_main.git --recursive
+git clone https://github.com/ellie-bee/griv_main.git
 ```
 
 ### grivc
